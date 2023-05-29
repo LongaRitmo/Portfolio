@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+.card {
+  margin: 1rem;
+
+  background-color: aliceblue;
+  border-radius: 30px;
+  padding: 1rem;
+
+  font-size: 1rem;
+  color: #282c34;
+}
+
+.card-text {
+  font-size: .8rem;
+  font-weight: bold;
+}
+
+
+.cards-div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+h1 {
+  margin-top: -10rem;
+}

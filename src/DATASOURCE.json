@@ -1,0 +1,17 @@
+[
+	{
+		"title": "Stella Venator",
+		"description": "Software para auxiliar a montagem de telescópios",
+		"url": "https://github.com/SantosPereira/Stella-Venator"
+	},
+	{
+		"title": "AWS-AutoScalling",
+		"description": "Prova de conceito sobre escalabilidade automática deaplicações",
+		"url": "https://github.com/SantosPereira/AWS-AutoScaling"
+	},
+	{
+		"title": "Flask-RESTful-DIO",
+		"description": "Sistema de gerenciamente venda de uma concessionária",
+		"url": "https://github.com/SantosPereira/Flask-RESTful-DIO"
+	}
+]
